@@ -15,6 +15,14 @@ This is my 15 commit for nodejs
 This is my 16 commit for nodejs
 This is my 17 commit for nodejs
 This is my 18 commit for nodejs
+<<<<<<< HEAD
 this is my 20 commit
 envirnoment variable
 my new jenkins project
+=======
+This is my 18 commit for artifact
+This is for artifact
+envi varibale
+envi varibalettt
+>>>>>>> d6a62b449458264f90060b7afecfe686b0e856b7
+my new jenkins 18aug2025
