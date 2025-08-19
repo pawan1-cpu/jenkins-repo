@@ -32,3 +32,4 @@ this is new builkd for pipeline
 new pipleline
 20645646464jjjjjjjjjjjjjjjjjjjjj
 new gif
+stages is working or not
